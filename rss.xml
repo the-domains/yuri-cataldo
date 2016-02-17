@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[Yuri Cataldo]]></title>
         <description><![CDATA[Yuri Cataldo]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/yuri-cataldo/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 17 Feb 2016 21:51:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Wed, 17 Feb 2016 21:53:13 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/yuri-cataldo/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>I HELP ARTISTS BECOME ENTREPRENEURS AND BUSINESSES BECOME CREATIVE</p>]]></description>
-            <link>undefined7c1236d4-0043-488b-be61-4bf2401b4062/index.html</link>
+            <link>https://thegrid.ai/yuri-cataldo/7c1236d4-0043-488b-be61-4bf2401b4062/index.html</link>
             <guid isPermaLink="false">7c1236d4-0043-488b-be61-4bf2401b4062</guid>
-            <pubDate>Wed, 17 Feb 2016 21:51:19 GMT</pubDate>
+            <pubDate>Wed, 17 Feb 2016 21:53:13 GMT</pubDate>
         </item>
     </channel>
 </rss>
