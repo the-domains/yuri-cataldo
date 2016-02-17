@@ -1,0 +1,28 @@
+name: Yuri Cataldo
+favicon: null
+layout_spectrum: 0.41549959778785706
+typography_spectrum: 0.40229055448435247
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.02790812263265252
+  lightness: 0.8021777484100312
+  saturation: 0.05652527906931937
+  rhythmicContrast: 0.9872150986921042
+purpose: []
