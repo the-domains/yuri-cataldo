@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Yuri Cataldo]]></title>
+        <description><![CDATA[Yuri Cataldo]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 17 Feb 2016 21:51:26 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>I HELP ARTISTS BECOME ENTREPRENEURS AND BUSINESSES BECOME CREATIVE</p>]]></description>
+            <link>undefined7c1236d4-0043-488b-be61-4bf2401b4062/index.html</link>
+            <guid isPermaLink="false">7c1236d4-0043-488b-be61-4bf2401b4062</guid>
+            <pubDate>Wed, 17 Feb 2016 21:51:19 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
